@@ -44,7 +44,7 @@ Estas métricas permiten analizar el rendimiento del modelo considerando el posi
 Se generaron visualizaciones para facilitar la interpretación de los resultados:
 
 * Distribución de sentimientos positivos y negativos.
-  Distribución de Sentimientos (images/distribucion_sentimientos.png)
+![Distribución de Sentimientos](images/distribucion_sentimientos.png)
 
 🛠️ Tecnologías Utilizadas
 
