@@ -40,10 +40,11 @@ El desempeño del modelo se evaluó utilizando métricas estándar para clasific
 * F1-Score (weighted): 90%
 Estas métricas permiten analizar el rendimiento del modelo considerando el posible desbalance de clases.
 
-📊 Visualización de Resultados
-Se generaron visualizaciones para facilitar la interpretación de los resultados:
+📊 Visualización de datos
+Se generaron visualizaciones para facilitar la interpretación de los datos:
 
-* Distribución de sentimientos positivos y negativos.
+
+![Distribución de Rating](images/distribucion_rating.png)
 ![Distribución de Sentimientos](images/distribucion_sentimientos.png)
 
 🛠️ Tecnologías Utilizadas
