@@ -11,12 +11,13 @@ El proyecto se centra en técnicas de Procesamiento de Lenguaje Natural (NLP) y 
 El conjunto de datos contiene las siguientes columnas:
 
 Descripción
-reviews	Texto de la reseña escrita por el usuario
-ratings	Calificación numérica otorgada por el cliente
+*reviews	Texto de la reseña escrita por el usuario
+*ratings	Calificación numérica otorgada por el cliente
+
 Consideraciones
 
-Las reseñas provienen de usuarios reales de TripAdvisor.
-Los ratings se utilizaron para generar etiquetas de sentimiento (positivo / negativo).
+*Las reseñas provienen de usuarios reales de TripAdvisor.
+*Los ratings se utilizaron para generar etiquetas de sentimiento (positivo / negativo).
 
 ⚙️ Preprocesamiento de Datos
 
