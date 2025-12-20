@@ -16,7 +16,7 @@ Descripción
 
 Consideraciones
 
-*Las reseñas provienen de usuarios reales de TripAdvisor.
+* Las reseñas provienen de usuarios reales de TripAdvisor.
 *Los ratings se utilizaron para generar etiquetas de sentimiento (positivo / negativo).
 
 ⚙️ Preprocesamiento de Datos
