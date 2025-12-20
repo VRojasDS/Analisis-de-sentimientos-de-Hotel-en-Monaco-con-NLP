@@ -41,8 +41,8 @@ El desempeño del modelo se evaluó utilizando métricas estándar para clasific
 Estas métricas permiten analizar el rendimiento del modelo considerando el posible desbalance de clases.
 
 📊 Visualización de datos
-Se generaron visualizaciones para facilitar la interpretación de los datos:
 
+Se generaron visualizaciones para facilitar la interpretación de los datos:
 
 ![Distribución de Rating](images/distribucion_rating.png)
 ![Distribución de Sentimientos](images/distribucion_sentimientos.png)
